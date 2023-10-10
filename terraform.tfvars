@@ -1,4 +1,4 @@
 region = "us-east-1"
 
-access_key = "AKIA6CD2SZJMUNRQPWXJ"
-secret_key = "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"
+access_key = "aws_user_access_key"
+secret_key = "aws_user_secret_key"
